@@ -1,6 +1,6 @@
-baseURL: https://example.org/
+baseURL: https://flomza.github.io/
 languageCode: en-us
-title: My New Hugo Site
+title: Matt Stone
 theme: "PaperMod"
 caches:
   images:
