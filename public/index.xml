@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Matt Stone</title>
+    <title>Flomza</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Matt Stone</description>
-    <generator>Hugo -- 0.151.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 12 Oct 2025 22:45:00 -0400</lastBuildDate>
+    <description>Recent content on Flomza</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a Website Using Hugo, PaperMod, and QOwnNotes</title>
+      <link>http://localhost:1313/posts/create-website-hugo-papermod-qownnotes/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/create-website-hugo-papermod-qownnotes/</guid>
+      <description>A detailed guide to creating and deploying a Hugo website using the PaperMod theme and QOwnNotes on Linux. Includes installation steps, Git and GitHub setup, YAML configuration, and a complete publishing workflow for GitHub Pages.</description>
+    </item>
     <item>
       <title>Why IT People Should Blog</title>
       <link>http://localhost:1313/posts/why-it-people-should-blog/</link>
-      <pubDate>Sun, 12 Oct 2025 22:45:00 -0400</pubDate>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/why-it-people-should-blog/</guid>
-      <description>&lt;p&gt;This is something I&amp;rsquo;ve thought about for a while now, I&amp;rsquo;ve just never got around to doing it, however now that I have time, I think it&amp;rsquo;s important to share my thoughts.&lt;/p&gt;
-&lt;p&gt;Throughout the past year of studying IT, a topic that comes up over and over again is documentation. We claim that we value high-quality documentation. However, how far are we willing to take this mentality?&lt;/p&gt;
-&lt;p&gt;Those in the field know the feeling &amp;ndash; After working on a long ticket, suddenly something causes a click, whether it be an article, video, or verbal communication from a senior technician, the problem now has a solution. You&amp;rsquo;re then left wondering how much quicker you could have completed the task if &lt;em&gt;someone&lt;/em&gt; had documented something.&lt;/p&gt;</description>
+      <description>Writing about what you learn in IT strengthens your understanding, builds your professional credibility, and helps others grow. Here&amp;#39;s why every IT professional should consider starting a blog.</description>
+    </item>
+    <item>
+      <title>Ultimate CCNA &amp; Network&#43; Guide for C-TEC Cybersecurity</title>
+      <link>http://localhost:1313/posts/ccna-networkplus-guide-c-tec-cybersecurity/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ccna-networkplus-guide-c-tec-cybersecurity/</guid>
+      <description>Originally posted on Discord for C-TEC Cybersecurity students, this comprehensive guide combines CCNA and Network&#43; preparation, highlighting their overlapping topics and shared study strategies. It focuses on how to make the most of C-TEC’s provided resources and offers practical advice on staying focused in class, using study tools effectively, and maximizing your chances of certification success.</description>
     </item>
   </channel>
 </rss>

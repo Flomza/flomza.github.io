@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Matt Stone</title>
+    <title>Posts on Flomza</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Matt Stone</description>
-    <generator>Hugo -- 0.151.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 12 Oct 2025 22:45:00 -0400</lastBuildDate>
+    <description>Recent content in Posts on Flomza</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a Website using Hugo, PaperMod, and QOwnNotes</title>
+      <link>http://localhost:1313/posts/create-a-website-using-hugo-and-papermod/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/create-a-website-using-hugo-and-papermod/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;The following guide details how I originally set up this very website. It also includes sources so you can expand on what I did easier with the official documents from the tools themselves.&lt;/p&gt;
+&lt;p&gt;My website was set up on &lt;a href=&#34;https://fedoraproject.org/kde/&#34;&gt;Fedora Linux&lt;/a&gt;, however I have placed links throughout to aid others in unique setups.&lt;/p&gt;
+&lt;h3 id=&#34;definitions&#34;&gt;Definitions&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo:&lt;/a&gt;&lt;/strong&gt; A framework used to create websites, commonly used for blogs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod:&lt;/a&gt;&lt;/strong&gt; A theme for your Hugo website. Please do consider using other themes, the official list can be found [here](insert link here).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why IT People Should Blog</title>
       <link>http://localhost:1313/posts/why-it-people-should-blog/</link>
-      <pubDate>Sun, 12 Oct 2025 22:45:00 -0400</pubDate>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/why-it-people-should-blog/</guid>
-      <description>&lt;p&gt;This is something I&amp;rsquo;ve thought about for a while now, I&amp;rsquo;ve just never got around to doing it, however now that I have time, I think it&amp;rsquo;s important to share my thoughts.&lt;/p&gt;
-&lt;p&gt;Throughout the past year of studying IT, a topic that comes up over and over again is documentation. We claim that we value high-quality documentation. However, how far are we willing to take this mentality?&lt;/p&gt;
-&lt;p&gt;Those in the field know the feeling &amp;ndash; After working on a long ticket, suddenly something causes a click, whether it be an article, video, or verbal communication from a senior technician, the problem now has a solution. You&amp;rsquo;re then left wondering how much quicker you could have completed the task if &lt;em&gt;someone&lt;/em&gt; had documented something.&lt;/p&gt;</description>
+      <description>Writing about what you learn in IT strengthens your understanding, builds your professional credibility, and helps others grow. Here&amp;#39;s why every IT professional should consider starting a blog.</description>
+    </item>
+    <item>
+      <title>Ultimate CCNA &amp; Network&#43; Guide for C-TEC Cybersecurity</title>
+      <link>http://localhost:1313/posts/ccna-networkplus-guide-c-tec-cybersecurity/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ccna-networkplus-guide-c-tec-cybersecurity/</guid>
+      <description>Originally posted on Discord for C-TEC Cybersecurity students, this comprehensive guide combines CCNA and Network&#43; preparation, highlighting their overlapping topics and shared study strategies. It focuses on how to make the most of C-TEC’s provided resources and offers practical advice on staying focused in class, using study tools effectively, and maximizing your chances of certification success.</description>
     </item>
   </channel>
 </rss>

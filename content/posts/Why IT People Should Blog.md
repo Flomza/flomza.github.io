@@ -1,7 +1,21 @@
 ---
-date: '2025-10-12T22:45:00-04:00'
+date: '2025-10-12'
 draft: false
 title: 'Why IT People Should Blog'
+categories: ['Career Development']
+tags:
+  - IT career
+  - documentation
+  - blogging
+  - learning
+  - knowledge sharing
+  - technical writing
+  - professional growth
+  - self-improvement
+  - Hugo
+description: "Writing about what you learn in IT strengthens your understanding, builds your professional credibility, and helps others grow. Here's why every IT professional should consider starting a blog."
+summary: "IT professionals often value documentation, but few take it beyond ticket notes or KB articles. Blogging transforms that habit into a tool for deeper learning and professional growth."
+
 ---
 
 This is something I've thought about for a while now, I've just never got around to doing it, however now that I have time, I think it's important to share my thoughts.
@@ -35,7 +49,7 @@ I wanted to prevent myself from falling behind, not on any one topic, but on the
 
 I intend on keeping this blog professional and helpful to all readers who visit. I want any projects I add to this site to be documented to the best of my ability, like I could follow it with no other help and complete the task from scratch. Even better, to not require extra help with the guides I create, but to link many supplemental resources I used to create the documents.
 
-If you are interested in copying this approach, feel free to! I feel that everyone has something to bring to the table, and you can benefit yourself at the same time through this process. For those who are curious, I have documented everything I did to get started with this very website you are reading this blog on, you can find the post here: ***WIP -- Will publish this post later***
+If you are interested in copying this approach, feel free to! I feel that everyone has something to bring to the table, and you can benefit yourself at the same time through this process. For those who are curious, I have documented everything I did to get started with this blog here: **[Create a Website using Hugo and PaperMod](../create-a-website-using-hugo-and-papermod)**
 
 ### A brief story
 
@@ -46,7 +60,7 @@ I remember years ago, trying to learn how to code felt more like trying to learn
 
 This is not a skill we are given right off the bat. We have to experiment enough to learn how to grow by ourselves, or we need someone who guides us, like a tutor, not a robot. It's so easy to fall into the trap of just following directions, whether it be from a straightforward YouTube video or the latest AI model. However, knowing when to step back and ask meaningful questions, then iterate on those questions, experimenting with them, is the difference between being stuck in so called *tutorial hell* and escaping to a self-directed freedom where you *understand* what you did and *why* it works.
 
-This is why in communities like OSSU/The Borr Project, the topic of AI is so shunned. While hallucinations are a big part of the problem with AI, the main error many people face is copying what it does without understanding the *why* behind each step.
+This is why in communities like [OSSU](https://ossu.dev/)/[The Borr Project](https://borrproject.github.io/), the topic of AI is so shunned. While hallucinations are a big part of the problem with AI, the main error many people face is copying what it does without understanding the *why* behind each step.
 
 The solution here can be seen as a mentality: From now on, strive to not just follow tutorials, but to understand the underlying process behind each step and the reasoning that goes into each step. When you do this, you will be able to effectively explain to others technical topics which can build their skills or serve to prove your own skills.
 

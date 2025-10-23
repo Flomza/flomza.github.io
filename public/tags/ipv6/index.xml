@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ipv6 on Flomza</title>
+    <link>http://localhost:1313/tags/ipv6/</link>
+    <description>Recent content in Ipv6 on Flomza</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ipv6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ultimate CCNA &amp; Network&#43; Guide for C-TEC Cybersecurity</title>
+      <link>http://localhost:1313/posts/ccna-networkplus-guide-c-tec-cybersecurity/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ccna-networkplus-guide-c-tec-cybersecurity/</guid>
+      <description>Originally posted on Discord for C-TEC Cybersecurity students, this comprehensive guide combines CCNA and Network&#43; preparation, highlighting their overlapping topics and shared study strategies. It focuses on how to make the most of C-TEC’s provided resources and offers practical advice on staying focused in class, using study tools effectively, and maximizing your chances of certification success.</description>
+    </item>
+  </channel>
+</rss>

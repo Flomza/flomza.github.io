@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Papermod on Flomza</title>
+    <link>http://localhost:1313/tags/papermod/</link>
+    <description>Recent content in Papermod on Flomza</description>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a Website using Hugo, PaperMod, and QOwnNotes</title>
+      <link>http://localhost:1313/posts/create-a-website-using-hugo-and-papermod/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/create-a-website-using-hugo-and-papermod/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;The following guide details how I originally set up this very website. It also includes sources so you can expand on what I did easier with the official documents from the tools themselves.&lt;/p&gt;
+&lt;p&gt;My website was set up on &lt;a href=&#34;https://fedoraproject.org/kde/&#34;&gt;Fedora Linux&lt;/a&gt;, however I have placed links throughout to aid others in unique setups.&lt;/p&gt;
+&lt;h3 id=&#34;definitions&#34;&gt;Definitions&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo:&lt;/a&gt;&lt;/strong&gt; A framework used to create websites, commonly used for blogs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod:&lt;/a&gt;&lt;/strong&gt; A theme for your Hugo website. Please do consider using other themes, the official list can be found [here](insert link here).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
