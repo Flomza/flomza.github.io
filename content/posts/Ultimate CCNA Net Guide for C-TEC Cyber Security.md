@@ -18,6 +18,7 @@ keywords: ["CCNA", "Network+", "C-TEC Cybersecurity", "Cisco", "Jeremy’s IT La
 summary: "Complete CCNA and Network+ guide for C-TEC Cybersecurity students featuring structured study plans, mapped lectures, and exam prep resources."
 description: "Originally posted on Discord for C-TEC Cybersecurity students, this comprehensive guide combines CCNA and Network+ preparation, highlighting their overlapping topics and shared study strategies. It focuses on how to make the most of C-TEC’s provided resources and offers practical advice on staying focused in class, using study tools effectively, and maximizing your chances of certification success."
 draft: false
+aliases: ["/ccna/"]
 cover:
   alt: "Comprehensive CCNA and Network+ study guide resources"
 ---

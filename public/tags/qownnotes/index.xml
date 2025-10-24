@@ -6,12 +6,12 @@
     <description>Recent content in Qownnotes on Flomza</description>
     <generator>Hugo -- 0.152.1</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/qownnotes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create a Website Using Hugo, PaperMod, and QOwnNotes</title>
       <link>http://localhost:1313/posts/create-website-hugo-papermod-qownnotes/</link>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/create-website-hugo-papermod-qownnotes/</guid>
       <description>A detailed guide to creating and deploying a Hugo website using the PaperMod theme and QOwnNotes on Linux. Includes installation steps, Git and GitHub setup, YAML configuration, and a complete publishing workflow for GitHub Pages.</description>
     </item>
